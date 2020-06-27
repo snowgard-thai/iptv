@@ -115,8 +115,10 @@ http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
 https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",K-TV
 https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-#EXTINF:-1 tvg-id="Kabel.de" tvg-name="Kabel eins" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/1200px-Kabel_eins_Logo_2015.svg.png" group-title="",Kabel eins
+#EXTINF:-1 tvg-id="Kabeleins.de" tvg-name="Kabel eins" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/1200px-Kabel_eins_Logo_2015.svg.png" group-title="",Kabel eins
 http://188.35.9.5:10020/stolen/497b/hot.dll
+#EXTINF:-1 tvg-id="Kabeleinsdoku.de" tvg-name="Kabel 1 Doku" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/200px-Kabel_eins_Doku_Logo_2016.svg.png" group-title="",Kabel 1 Doku
+http://188.35.9.5:10020/stolen/501b/hot.dll
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.ebayimg.com/00/s/MzAwWDMwMA==/z/MPoAAOSwDbBd94NZ/$_7.JPG" group-title="Shop",Kaufbei.tv
 https://bemtv.parom.tv/hls/stream328/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/kybSwK3.png" group-title="",Kiel TV
